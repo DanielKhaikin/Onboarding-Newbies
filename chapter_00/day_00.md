@@ -45,7 +45,7 @@ Today is all about getting comfortable and understanding the big picture. You'll
   - [ ] Confluence
 
 ### **Learn yourself and your learning style:**
-  - Take a moment to understand what is the best way for you to learn, which type of learner you are, and how you can improve your learning process. [Do this](https://www.verywellmind.com/what-is-your-learning-style-2795153) to understand more about learning styles.
+  - Take a moment to understand what is the best way for you to learn, which type of learner you are, and how you can improve your learning process. [Do this](https://learningstylequiz.com/quiz/start.php) to understand more about learning styles.
   - Discuss with your mentor about your learning style and how you can improve it.
   - Discuss with your mentor about your sleep cycle and how it can affect your learning process.
 

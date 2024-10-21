@@ -1,1 +1,0 @@
-# [Click here](https://883g.github.io/GO-TO-INTERNAL)

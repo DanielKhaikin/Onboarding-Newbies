@@ -28,7 +28,7 @@ Explore the following concepts by conducting web research to find real-world exa
 12. **Data Governance**
 13. **Data Visualization**
 14. **Data Analytics**
-15. **Data Ownership**
+15. **Indexes**
 16. **Data Quality**
 17. **CDC (Change Data Capture)**
 18. **Data Catalog**
@@ -74,3 +74,4 @@ Engage in an open Q&A session with your mentor to address any queries or discuss
 - [Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM)
 - [NoSQL vs SQL Databases](https://www.youtube.com/watch?v=Pf-9pjJK1e0)
 - [OLAP vs OLTP](https://www.youtube.com/watch?v=iw-5kFzIdgY)
+- [Introduction To Database Indexing](https://medium.com/@rtawadrous/introduction-to-database-indexes-9b488e243cc1)

@@ -16,29 +16,31 @@ Today's session is all about laying the foundation for your journey into the wor
 Explore the following concepts by conducting web research to find real-world examples for each. Engage in a discussion with your mentor to deepen your understanding and clarify any questions you may have, maintaining a high-level perspective.
 
 1. **5V's of Big Data**
-2. **Structured vs Unstructured Data vs Semi-Structured Data**
-3. **ETL vs ELT**
-4. **NoSQL Databases vs SQL Databases**
-5. **OLAP vs OLTP**
-6. **Batch Processing vs Stream Processing**
-7. **Data Warehouse vs Data Lake**
-8. **Distributed File Systems**
-9. **Data Governance**
-10. **Data Visualization**
-11. **Data Analytics**
-12. **Data Ownership**
-13. **Data Quality**
-14. **CDC (Change Data Capture)**
-15. **Data Catalog**
-16. **Data Lifecycle Management**
-17. **Data Lineage**
-18. **Store First Approach**
-19. **Data Serialization**
-20. **Data Compression**
-21. **Scale out vs Scale up**
-22. **High Availability**
-23. **Master-Slave vs Masterless Architectures**
-24. **Apache Data Stack**
+2. **CAP theorem**
+3. **CAP vs PACELC**
+5. **Structured vs Unstructured Data vs Semi-Structured Data**
+6. **ETL vs ELT**
+7. **NoSQL Databases vs SQL Databases**
+8. **OLAP vs OLTP**
+9. **Batch Processing vs Stream Processing**
+10. **Data Warehouse vs Data Lake vs Database**
+11. **Distributed File Systems**
+12. **Data Governance**
+13. **Data Visualization**
+14. **Data Analytics**
+15. **Data Ownership**
+16. **Data Quality**
+17. **CDC (Change Data Capture)**
+18. **Data Catalog**
+19. **Data Lifecycle Management**
+20. **Data Lineage**
+21. **Store First Approach**
+22. **Data Serialization**
+23. **Data Compression**
+24. **Scale out vs Scale up**
+25. **High Availability**
+26. **Master-Slave vs Masterless Architectures**
+27. **Apache Data Stack**
 
 ## Wrapping Up:
 ### Reflection
@@ -66,6 +68,9 @@ Engage in an open Q&A session with your mentor to address any queries or discuss
 
 ## Recommended Articles and Videos:
 - [The 5 V's of Big Data by IBM](https://www.ibmbigdatahub.com/blog/understanding-big-data-5-vs)
+- [CAP theorem explained](https://medium.com/distributed-systems-series/cap-theorem-explained-distributed-systems-series-a42c7eae9dae)
+- [PACELC Theorem Explained: Distributed Systems Series](https://medium.com/distributed-systems-series/pacelc-theorem-explained-distributed-systems-series-9c509febb8f8)
+- [Databases vs. Data Warehouses vs. Data Lakes](https://www.mongodb.com/resources/basics/databases/data-lake-vs-data-warehouse-vs-database)
 - [Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM)
 - [NoSQL vs SQL Databases](https://www.youtube.com/watch?v=Pf-9pjJK1e0)
 - [OLAP vs OLTP](https://www.youtube.com/watch?v=iw-5kFzIdgY)
